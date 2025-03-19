@@ -5,7 +5,3 @@ This repository contains my solutions to problems from LeetCode. Each solution i
 ### Clone the repository and explore the solutions for different problems. 
 
 `git clone https://github.com/tydel4/leetcode-submissions.git`
-
-### License
-
-This project is open-source and available under the MIT License.
