@@ -7,3 +7,4 @@ class Solution:
             return 0
         else:
             return (max1 - min1) - k * 2
+        

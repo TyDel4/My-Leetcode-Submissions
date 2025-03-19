@@ -15,3 +15,4 @@ class Solution:
                 equal_to_pivot.append(nums[i])
         
         return less_than_pivot + equal_to_pivot + greater_than_pivot
+    

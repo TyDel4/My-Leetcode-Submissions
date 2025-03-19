@@ -8,3 +8,4 @@ class Solution:
             if (max(temp_array) - prices[i] > biggest_difference):
                 biggest_difference = max(temp_array) - prices[i]
         return biggest_difference
+    

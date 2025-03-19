@@ -34,3 +34,4 @@ class Solution:
             head.next = list2
 
         return head
+    
